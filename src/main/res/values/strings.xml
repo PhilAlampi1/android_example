@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meme Chat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="whats_up">what\'s up?</string>
+    <string name="item_info_str">Info</string>
+    <string name="item_copy_str">Copy</string>
+    <string name="item_delete_str">Delete</string>
+    <string name="accept">Accept</string>
+    <string name="eula_string">MEME CHAT APP END USER LICENSE AGREEMENT
+        \n\nThis End User License Agreement (\“Agreement\”) is between you and Idea Fusion and governs use of this app made available through the Google Play Store. By installing the Meme Chat App, you agree to be bound by this Agreement and understand that there is no tolerance for illegal content. If you do not agree with the terms and conditions of this Agreement, you are not entitled to use the Meme Chat App.
+
+        \n\nThis software may not, in whole or in any part, be copied, reproduced, transmitted, translated (into any language, natural or computer), stored in a retrieval system, reduced to any electronic medium or machine readable format, or by any other form or means without prior consent, in writing, from Idea Fusion.
+
+        \n\nYou are granted a limited license to use this software. The software may be used or copied only in accordance with the terms of that license, which is described in the following paragraphs.
+
+        \n\nLICENSE
+        \n\n\"THE SOFTWARE\" shall be taken to mean the software contained in this app and any subsequent versions or upgrades received as a result of having purchased this app. \"USER\" shall be taken as the person or entity that originally downloaded the software, even if offered at no charge.
+
+        \n\nUser has the non-exclusive right to the use of software only on a single device. User may not electronically transfer the program from one device to another over any type of network. User may not distribute copies of the software or the accompanying documentation to others either for a fee or without charge. User may not modify or translate the program or documentation. User may not disassemble the program or allow it to be disassembled into its constituent source code. User\'s use of the software indicates his/her acceptance of these terms and conditions. If User does not agree to these conditions, return the distribution media, documentation, and
+        associated materials to the vendor from whom the software was purchased, and/or uninstall the software from the device, and erase the software from any and all storage devices upon which it may have been installed.
+
+        \n\nThis license agreement shall be governed by the laws of The United States of America, Illinois and shall inure to the benefit of Idea Fusion or its assigns.
+
+        \n\nPRIVACY
+        \n\nIdea Fusion may collect and use information about User\’s usage of the Meme Chat App, including certain types of information from and about User\’s device. Idea Fusion may use this information, as long as it is in a form that does not personally identify User, to measure the use and performance of the Meme Chat App.
+
+        \n\nDISCLAIMER / LIMITATION OF LIABILITY
+        \n\nUser acknowledges that the software may not be free from defects and may not satisfy all of User\'s needs. The software and any accompanying written materials are licensed \"AS IS\". In no event will Idea Fusion be liable for direct, indirect, incidental or consequential damage or damages resulting from loss of use, or loss of anticipated profits resulting from any defect in the software, even if it has been advised of the possibility of such damage.
+
+        \n\nSPECIFIC RESTRICTIONS
+        \n\nIn accordance with the COMPUTER SOFTWARE RENTAL ACT OF 1990, this software may not be rented, lent or leased. By using the Meme Chat App, User represents and warrants that (a) User is 17 years of age or older and User agrees to be bound by this Agreement; (b) if User is under 17 years of age, User has obtained verifiable consent from a parent or legal guardian; and (c) User\’s use of the Meme Chat App does not violate any applicable law or regulation. User\’s access to the Meme Chat App may be terminated without warning if Idea Fusion believes, in its sole discretion, that User is under the age of 17 years and have not obtained verifiable consent from a parent or legal guardian. If User is a parent or legal guardian and User provides User\’s consent to User\’s child’s use of the Meme Chat App, User agree to be bound by this Agreement in respect to User\’s child’s use of the Meme Chat App.
+
+        \n\nTHIRD PARTY INTELLECTUAL PROPERTY CLAIMS
+        \n\nIdea Fusion shall not be obligated to indemnify or defend User with respect to any third party claim arising out or relating to the Meme Chat App, including any claim that the Meme Chat App or User\’s use of it infringes any third party intellectual property right
+        \n\nCopyright 2015 Idea Fusion. All Rights Reserved.</string>
+    <string name="item_share_str">Share</string>
+    <string name="longclick">Long Click Button !</string>
+    <string name="menu_title">Menu!</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frag_create_msg"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </android.support.v4.view.ViewPager>
+
+    <ProgressBar
+        android:id="@+id/pbConvo"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center" 
+        android:layout_gravity="center_horizontal"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="6dp"
+            android:layout_marginBottom="18dp"
+            android:layout_weight="1"
+            android:gravity="end"
+            android:inputType="textMultiLine"
+            android:isScrollContainer="true"
+            android:textColor="@android:color/white"
+            android:shadowColor="#000"
+			android:shadowRadius="7"
+			android:maxLength="160"
+            android:textSize="22sp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+</FrameLayout>
